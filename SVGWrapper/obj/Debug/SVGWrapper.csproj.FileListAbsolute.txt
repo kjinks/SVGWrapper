@@ -1,0 +1,6 @@
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\bin\Debug\SVGWrapper.exe.config
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\bin\Debug\SVGWrapper.exe
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\bin\Debug\SVGWrapper.pdb
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\obj\Debug\SVGWrapper.exe
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\obj\Debug\SVGWrapper.pdb
+C:\Users\D\Documents\Projects\SVGWrapper\SVGWrapper\obj\Debug\SVGWrapper.csprojResolveAssemblyReference.cache

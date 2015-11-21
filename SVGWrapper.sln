@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVGWrapper", "SVGWrapper\SVGWrapper.csproj", "{773EDAB5-4892-46FC-9C27-5299700EDCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773EDAB5-4892-46FC-9C27-5299700EDCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773EDAB5-4892-46FC-9C27-5299700EDCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773EDAB5-4892-46FC-9C27-5299700EDCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773EDAB5-4892-46FC-9C27-5299700EDCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
